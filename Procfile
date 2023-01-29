@@ -1,0 +1,1 @@
+wroker: python fitebot.py
